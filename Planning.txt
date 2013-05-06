@@ -1,0 +1,56 @@
+Need to determine classes to be used, so I need to think about functionality.
+
+   Input
+1.Need a list of strings.
+2.Need input for list of strings. maybe an add word button on form, then start once list is populated.
+3.Need 3 guesses.
+4.Need input for guesses. Maybe have Set Guess 1 for button text, then change to Set Guess 2
+     Could have the user select the guess from the combobox, that would make design easier instead of them typing it in.
+
+
+   Calculation  - List
+1.Need a function to compare one string to the next, thinking something like this.
+   int charsInCommon(string guess, string other)
+       int counter = 0
+       for(int index = 0;index < guess.length;i++)
+          if(index < other.length)
+             if(guess[index] == other[index])
+                counter++
+       return counter
+
+2.Need a function to discard any words from the list that don't have a comparable number of like characters
+  void discardIncorrect(string guess, int correctChars)
+     for(string other in list)
+       if(charsInCommon(guess,other) < correctChars)
+         delete other from list
+
+3.Need to remove guess from list
+   void takeGuess(string guess, int correctChars)
+     remove guess from list
+     store guess string in variable
+     store number of correct characters in variable
+
+4.void add(string word)
+     add word to list
+
+
+Calculation-form
+1.btnAddWord_click
+    call list's add function, passing string as parameter
+
+2.btnBegin_click
+  disable add word button
+  disable begin button
+  enable Set guess button
+
+   Output
+1.Update list box to reflect contents of word list
+
+
+
+
+
+
+Proposed objects at this point
+1.Form - only handles displaying of information
+2.Collection of Strings

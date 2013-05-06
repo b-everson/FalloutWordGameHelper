@@ -1,0 +1,9 @@
+C:\Users\Bryan\Documents\Visual Studio 2010\Projects\FalloutWordGameHelper\FalloutWordGameHelper\bin\Debug\FalloutWordGameHelper.exe
+C:\Users\Bryan\Documents\Visual Studio 2010\Projects\FalloutWordGameHelper\FalloutWordGameHelper\bin\Debug\FalloutWordGameHelper.pdb
+C:\Users\Bryan\Documents\Visual Studio 2010\Projects\FalloutWordGameHelper\FalloutWordGameHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bryan\Documents\Visual Studio 2010\Projects\FalloutWordGameHelper\FalloutWordGameHelper\obj\x86\Debug\FalloutWordGameHelper.Form1.resources
+C:\Users\Bryan\Documents\Visual Studio 2010\Projects\FalloutWordGameHelper\FalloutWordGameHelper\obj\x86\Debug\FalloutWordGameHelper.Properties.Resources.resources
+C:\Users\Bryan\Documents\Visual Studio 2010\Projects\FalloutWordGameHelper\FalloutWordGameHelper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bryan\Documents\Visual Studio 2010\Projects\FalloutWordGameHelper\FalloutWordGameHelper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bryan\Documents\Visual Studio 2010\Projects\FalloutWordGameHelper\FalloutWordGameHelper\obj\x86\Debug\FalloutWordGameHelper.exe
+C:\Users\Bryan\Documents\Visual Studio 2010\Projects\FalloutWordGameHelper\FalloutWordGameHelper\obj\x86\Debug\FalloutWordGameHelper.pdb
